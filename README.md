@@ -1,3 +1,5 @@
+> This repository is still missing some files and information which I will fill up ASAP!
+
 # <img src="./banner.png" alt="AI Foundations : A deep learning workshop" width="auto" height="200" />
 
 ## AI Foundations : A deep learning workshop
