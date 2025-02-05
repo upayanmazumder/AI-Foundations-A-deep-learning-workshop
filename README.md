@@ -3,7 +3,7 @@
 ## AI Foundations : A deep learning workshop
 
 **The AI & ML Club, VIT Vellore**  
-_5th February 2024_
+_5th February 2025_
 
 ---
 
